@@ -28,3 +28,36 @@
   content: "";
   padding: 0;
 }
+.loginbox {
+  margin-top:50px;
+}
+.forgot{
+  float:right; font-size: 80%; position: relative; top:-10px;
+}
+.login-alert{
+  padding-top:30px;
+}
+.login-alert1{
+  display:none;
+}
+.input-group1{
+  margin-bottom: 25px;
+}
+.form-group1{
+  margin-top:10px;
+}
+.dont-account{
+  border-top: 1px solid#888; padding-top:15px; font-size:85%;
+}
+.sign-up{
+  display:none; margin-top:50px;
+}
+.sign-in-link{
+  float:right; font-size: 85%; position: relative; top:-10px;
+}
+.sign-up-button{
+  margin-left:8px;
+}
+.sign-up-facebook{
+  border-top: 1px solid #999; padding-top:20px;
+}
